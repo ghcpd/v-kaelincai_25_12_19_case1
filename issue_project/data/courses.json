@@ -1,0 +1,40 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Python入门到精通",
+      "instructor": "张老师",
+      "duration": "40小时",
+      "level": "初级",
+      "price": "¥299",
+      "image": "https://via.placeholder.com/300x200/4CAF50/FFFFFF?text=Python"
+    },
+    {
+      "id": 2,
+      "title": "JavaScript全栈开发",
+      "instructor": "李老师",
+      "duration": "60小时",
+      "level": "中级",
+      "price": "¥399",
+      "image": "https://via.placeholder.com/300x200/2196F3/FFFFFF?text=JavaScript"
+    },
+    {
+      "id": 3,
+      "title": "数据结构与算法",
+      "instructor": "王老师",
+      "duration": "50小时",
+      "level": "中级",
+      "price": "¥499",
+      "image": "https://via.placeholder.com/300x200/FF9800/FFFFFF?text=Algorithm"
+    },
+    {
+      "id": 4,
+      "title": "前端框架React入门",
+      "instructor": "赵老师",
+      "duration": "35小时",
+      "level": "中级",
+      "price": "¥349",
+      "image": "https://via.placeholder.com/300x200/00BCD4/FFFFFF?text=React"
+    }
+  ]
+}
