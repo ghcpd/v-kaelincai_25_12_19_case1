@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Course Platform - Fixed Version</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Online Course Platform</h1>
+            <p class="subtitle">Discover quality courses, enhance your skills</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="courses-section">
+            <h2>Featured Courses</h2>
+            <div id="courses-container" class="courses-grid">
+                <!-- Course cards will be loaded dynamically via JavaScript -->
+            </div>
+        </section>
+
+        <!-- Fixed: Add the missing detail panel so showCourseDetail can render into it -->
+        <div id="course-detail-panel" class="detail-panel hidden" role="dialog" aria-modal="true" aria-labelledby="detail-title">
+            <!-- Content is injected by JavaScript -->
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Online Course Platform. Fixed Demo Project</p>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
