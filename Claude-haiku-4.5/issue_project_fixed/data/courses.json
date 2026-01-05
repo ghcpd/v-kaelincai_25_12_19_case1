@@ -1,0 +1,40 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Python Fundamentals to Advanced",
+      "instructor": "Prof. Zhang",
+      "duration": "40 hours",
+      "level": "Beginner",
+      "price": "$299",
+      "image": "https://via.placeholder.com/300x200/4CAF50/FFFFFF?text=Python"
+    },
+    {
+      "id": 2,
+      "title": "JavaScript Full Stack Development",
+      "instructor": "Prof. Li",
+      "duration": "60 hours",
+      "level": "Intermediate",
+      "price": "$399",
+      "image": "https://via.placeholder.com/300x200/2196F3/FFFFFF?text=JavaScript"
+    },
+    {
+      "id": 3,
+      "title": "Data Structures and Algorithms",
+      "instructor": "Prof. Wang",
+      "duration": "50 hours",
+      "level": "Intermediate",
+      "price": "$499",
+      "image": "https://via.placeholder.com/300x200/FF9800/FFFFFF?text=Algorithm"
+    },
+    {
+      "id": 4,
+      "title": "React Framework Introduction",
+      "instructor": "Prof. Zhao",
+      "duration": "35 hours",
+      "level": "Intermediate",
+      "price": "$349",
+      "image": "https://via.placeholder.com/300x200/00BCD4/FFFFFF?text=React"
+    }
+  ]
+}
